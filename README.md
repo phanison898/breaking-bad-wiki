@@ -1,2 +1,2 @@
-# breaking-bad-wiki
-A React based web application works as a Wikipedia for famous web series called "Breaking Bad"
+# Breaking Bad Wikipedia
+This web application provides information for each and every character portrayed in the TV show called Breaking Bad 
