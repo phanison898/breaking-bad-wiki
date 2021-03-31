@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/breaking-bad-wiki/static/css/main.2f62f6f1.chunk.css",
+    "main.js": "/breaking-bad-wiki/static/js/main.2669e337.chunk.js",
+    "main.js.map": "/breaking-bad-wiki/static/js/main.2669e337.chunk.js.map",
+    "runtime-main.js": "/breaking-bad-wiki/static/js/runtime-main.fd729dbc.js",
+    "runtime-main.js.map": "/breaking-bad-wiki/static/js/runtime-main.fd729dbc.js.map",
+    "static/js/2.1f23dfc2.chunk.js": "/breaking-bad-wiki/static/js/2.1f23dfc2.chunk.js",
+    "static/js/2.1f23dfc2.chunk.js.map": "/breaking-bad-wiki/static/js/2.1f23dfc2.chunk.js.map",
+    "index.html": "/breaking-bad-wiki/index.html",
+    "static/css/main.2f62f6f1.chunk.css.map": "/breaking-bad-wiki/static/css/main.2f62f6f1.chunk.css.map",
+    "static/js/2.1f23dfc2.chunk.js.LICENSE.txt": "/breaking-bad-wiki/static/js/2.1f23dfc2.chunk.js.LICENSE.txt",
+    "static/media/bb1.d7e3baad.jpg": "/breaking-bad-wiki/static/media/bb1.d7e3baad.jpg",
+    "static/media/bb_music.fca26c58.mp3": "/breaking-bad-wiki/static/media/bb_music.fca26c58.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd729dbc.js",
+    "static/js/2.1f23dfc2.chunk.js",
+    "static/css/main.2f62f6f1.chunk.css",
+    "static/js/main.2669e337.chunk.js"
+  ]
+}
